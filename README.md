@@ -17,7 +17,7 @@ The analysis is organised into three notebooks, each covering a different part o
 - `02_p53_analysis.ipynb` examines CCNB1 expression across cancer types before comparing TP53-mutant and wild-type tumours in LUAD.
 - `03_extension.ipynb` explores whether similar differences in CCNB1 expression are found in other cancer types.
 
-The notebooks can be run in Google Colab by executing the cells in order. Each notebook begins with a setup cell that downloads the required data and identifies the assigned gene and cancer type.
+Open each notebook in Google Colab and save a copy to Google Drive before editing. Enter your Sussex username in the setup cell, then run the cells in order. Notebook 01 summarises the clinical cohort, while Notebook 02 analyses CCNB1 expression independently of Notebook 01. Notebook 03 is an optional extension that examines whether the TP53-associated expression pattern is also seen in other cancer types.
 
 ## Main Result
 
